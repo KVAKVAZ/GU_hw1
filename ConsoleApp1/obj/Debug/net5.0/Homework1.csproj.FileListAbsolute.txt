@@ -1,0 +1,16 @@
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Homework1.exe
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Homework1.deps.json
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Homework1.runtimeconfig.json
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Homework1.runtimeconfig.dev.json
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Homework1.dll
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Homework1.dll
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Homework1.pdb
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.csprojAssemblyReference.cache
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.AssemblyInfo.cs
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.dll
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Homework1.dll
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.pdb
+C:\Users\Steam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Homework1.genruntimeconfig.cache
