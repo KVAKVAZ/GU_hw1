@@ -1,0 +1,7 @@
+C:\Users\Steam\source\repos\ConsoleApp1\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Steam\source\repos\ConsoleApp1\Homework2\bin\Debug\Homework2.exe
+C:\Users\Steam\source\repos\ConsoleApp1\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Steam\source\repos\ConsoleApp1\Homework2\obj\Debug\Homework2.csprojAssemblyReference.cache
+C:\Users\Steam\source\repos\ConsoleApp1\Homework2\obj\Debug\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Steam\source\repos\ConsoleApp1\Homework2\obj\Debug\Homework2.exe
+C:\Users\Steam\source\repos\ConsoleApp1\Homework2\obj\Debug\Homework2.pdb
